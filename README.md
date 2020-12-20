@@ -1,4 +1,4 @@
- # NEW-HYBRID-ENCRYPTION-ALGORITHM-FOR-INCREASED-SECURITY IN STORAGE SYSTEMS
+ # NEW HYBRID-ENCRYPTION-ALGORITHM FOR INCREASED SECURITY IN STORAGE SYSTEMS
 
 <p align = "left"><b>Safety has become a very important part of modern life. Data security is the most mandatory security of all. The data on our system is exposed to high potential risks. Due to different safety reasons we use different methods. . While most web- based applications require data security we need to focus on developing better algorithms for the purpose of encryption of the data to make it moresecure. Our aim in this project is to develop a design and implementation of a much simplified and efficient hybrid algorithm based on the Data Encryption Standard (DES),AES and blowfish algorithm which is very similar, but works on in a different way. Our Hybrid algorithm will provide more security to the storage systems.
  </b></p>
